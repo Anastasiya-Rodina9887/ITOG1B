@@ -1,0 +1,15 @@
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\bin\Debug\net7.0\ITOG1B.exe
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\bin\Debug\net7.0\ITOG1B.deps.json
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\bin\Debug\net7.0\ITOG1B.runtimeconfig.json
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\bin\Debug\net7.0\ITOG1B.dll
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\bin\Debug\net7.0\ITOG1B.pdb
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ITOG1B.csproj.AssemblyReference.cache
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ITOG1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ITOG1B.AssemblyInfoInputs.cache
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ITOG1B.AssemblyInfo.cs
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ITOG1B.csproj.CoreCompileInputs.cache
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ITOG1B.dll
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\refint\ITOG1B.dll
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ITOG1B.pdb
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ITOG1B.genruntimeconfig.cache
+C:\Users\79137\OneDrive\Рабочий стол\GeekBrains\ITOG1B\obj\Debug\net7.0\ref\ITOG1B.dll
